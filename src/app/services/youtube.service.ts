@@ -9,7 +9,7 @@ import { pipe } from "@angular/core/src/render3";
 export class YoutubeService {
   private youtubeUrl = "https://www.googleapis.com/youtube/v3";
   private apiKey = "AIzaSyCvuXDqO_NHbcrHXt-fFrLN3G0klqF_pBQ";
-  private chanelId = "UUuaPTYj15JSkETGnEseaFFg";
+  private chanelId = "PLr1r3rEJabPTYCh6Q5qHLk1Z5Akv00szu";
   private nextPageToken: string;
   constructor(public http: HttpClient) {}
 
