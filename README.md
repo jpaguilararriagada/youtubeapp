@@ -1,6 +1,10 @@
 # Youtubeapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Este proyecto fue realizado con el proposito de aprender las cosas basicas de Angular tales como el uso de validaciones , enrutamiento, interfaces, HttpClient, uso de API de FireBase , etc...
+
+# Demo
+
+https://jpaguilararriagada.github.io/youtubeapp/
 
 ## Development server
 
